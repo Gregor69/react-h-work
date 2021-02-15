@@ -38,8 +38,7 @@ const FilmReleases = () => {
         <div className="film-releases">
             <h1>Upcoming UK Film Releases</h1>
             <FilmList films={films}/>
-            
-
+            <button>View more coming releases</button>
         </div>
     )
 }

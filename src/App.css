@@ -11,6 +11,10 @@
   border: 4px solid black;
 }
 
+.film-list.button {
+  color: blue;
+}
+
 .film {
   margin: 5px;
   border: 4px solid navy;
